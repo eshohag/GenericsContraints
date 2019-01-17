@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsContraints", "GenericsContraints\GenericsContraints.csproj", "{DE6C5BAF-43B5-438E-A6A3-5BE73E11310B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE6C5BAF-43B5-438E-A6A3-5BE73E11310B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6C5BAF-43B5-438E-A6A3-5BE73E11310B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6C5BAF-43B5-438E-A6A3-5BE73E11310B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6C5BAF-43B5-438E-A6A3-5BE73E11310B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57DAAAEE-4454-4A84-86AB-E7DA64C6F834}
+	EndGlobalSection
+EndGlobal
