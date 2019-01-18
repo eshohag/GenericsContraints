@@ -5,8 +5,7 @@
         public T GetById(int id)
         {
             //Your operation
-            T aT = new T();
-            return aT;
+            return new T();
         }
 
         public T DeleteById(int id)
@@ -15,8 +14,9 @@
             return new T();
         }
 
-        public T GetIncetance<T>() where T : class, new()
+        public T GetInstance<T>() where T : class, new()
         {
+            //Your Operation
             return new T();
         }
     }
